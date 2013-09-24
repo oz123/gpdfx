@@ -13,7 +13,7 @@ Original Author
 Changes from origin:
 
 Replace the shell script with a Python  method so that the 
-whole GUI and Converter are contained in on file.
+whole GUI and Converter are contained in one file.
  
 These changed ease the installation and usage of this little useful tool
 a little bit.
